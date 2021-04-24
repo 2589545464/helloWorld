@@ -57,3 +57,4 @@ compile_commands.json
 /jsdesktop/a/*
 !/jsdesktop/a/a.txt
 /jsdesktop/c/
+/jsdesktop/b/
