@@ -54,4 +54,6 @@ compile_commands.json
 *_qmlcache.qrc
 
 # Speedoffice file
-/jsdesktop/common/
+/jsdesktop/common
+/jsdesktop/a/
+/jsdesktop/b
