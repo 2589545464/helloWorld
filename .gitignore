@@ -56,4 +56,4 @@ compile_commands.json
 # Speedoffice file
 /jsdesktop/a/*
 !/jsdesktop/a/a.txt
-/jsdesktop/c/*
+/jsdesktop/c/
