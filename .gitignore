@@ -57,5 +57,5 @@ compile_commands.json
 /jsdesktop/common
 /jsdesktop/a/*
 !/jsdesktop/a/a.txt
-#/jsdesktop/b
-#/jsdesktop/c/*
+/jsdesktop/b
+/jsdesktop/c/*
